@@ -1,0 +1,124 @@
+<resources>
+    <string name="app_name">menus30days</string>
+    <string name="top_bar">Rekomendasi Menu 30 Hari</string>
+
+    <string name="day1">Day 1</string>
+    <string name="title1">Rendang</string>
+    <string name="description1">Makanan khas padang yang sangat lezat dan sangat bergizi.</string>
+
+    <string name="day2">Day 2</string>
+    <string name="title2">Udang Goreng </string>
+    <string name="description2">Menu simple yang dapat disajikan dengan nasi hangat .</string>
+
+    <string name="day3">Day 3</string>
+    <string name="title3">Ayam Goreng</string>
+    <string name="description3">Menu sederhana yang hanya berbahan dasar ayam yang di marinasi lalu digoreng.</string>
+
+    <string name="day4">Day 4</string>
+    <string name="title4">Ayam Bakar</string>
+    <string name="description4">menu yang nikmat dengan rasa yang kaya dengan rempah dan aroma smookie.</string>
+
+    <string name="day5">Day 5</string>
+    <string name="title5">Mie Ayam</string>
+    <string name="description5">Menu yang sangat lezat dengan kombinasi mie dan campuran potongan daging ayam.</string>
+
+    <string name="day6">Day 6</string>
+    <string name="title6">Siomay</string>
+    <string name="description6">Makanan khas bandung yang berbahan dasar tepung yang dicampur dengan daging ikan lalu dikukus dan disajikan dengan tambahan bumbu kacang.</string>
+
+    <string name="day7">Day 7</string>
+    <string name="title7">Batagor</string>
+    <string name="description7">Salah satu makanan khas bandung yang berbahan dasar tahu yang dihaluskan dan diisi dengan adonan berbahan ikan dan tepung tapioka dan dibentuk seperti bola lalu digoreng disajikan dengan tamabahan bumbu kacang.</string>
+
+    <string name="day8">Day 8</string>
+    <string name="title8">Bakso</string>
+    <string name="description8">Bakso umumnya dibuat dari campuran daging sapi giling dan tepung tapioka disajukan dengan tambahan kuah kaldu.</string>
+
+    <string name="day9">Day 9</string>
+    <string name="title9">Soto</string>
+    <string name="description9"> Makanan khas Indonesia seperti sop yang terbuat dari kaldu daging dan sayuran.</string>
+
+    <string name="day10">Day 10</string>
+    <string name="title10">Rawon</string>
+    <string name="description10">Masakan khas Indonesia yang berasal dari Ponorogo, Jawa Timur, yang berupa sup daging berkuah hitam dengan campuran bumbu khas yang menggunakan kluwek.</string>
+
+    <string name="day11">Day 11</string>
+    <string name="title11">Nasi Goreng</string>
+    <string name="description11"> Merupakan sajian nasi yang digoreng dalam sebuah wajan atau penggorengan yang menghasilkan cita rasa berbeda karena dicampur dengan bumbu-bumbu seperti garam, bawang putih, bawang merah, merica, rempah-rempah tertentu dan kecap manis.</string>
+
+    <string name="day12">Day 12</string>
+    <string name="title12">Nasi Pecel</string>
+    <string name="description12">Hidangan nasi Indonesia khas Jawa yang disajikan dengan pecel. Pecel dalam hidangan nasi pecel biasanya dibuat dari kangkung, kacang panjang, daun singkong, daun pepaya, atau bunga turi yang dicampur dengan sambal kacang.</string>
+
+    <string name="day13">Day 13</string>
+    <string name="title13">Gulai kambing</string>
+    <string name="description13"> Masakan Indonesia berbahan baku daging kambing, jeroan, yang diolah dalam kuah bumbu rempah yang bercita rasa gurih yang berasal dari Sumatra, Indonesia.</string>
+
+    <string name="day14">Day 14</string>
+    <string name="title14">Ikan Goreng</string>
+    <string name="description14"> merupakan hidangan ikan dibumbu celup dengan cara dimarinasi dengan campuran bumbu rempah lalu digoreng .</string>
+
+    <string name="day15">Day 15</string>
+    <string name="title15">ikan bakar</string>
+    <string name="description15">hidangan ikan yang dibakar atau dipanggang di atas api atau bara api.</string>
+
+    <string name="day16">Day 16</string>
+    <string name="title16">Sarden</string>
+    <string name="description16">Olahan ikan dengan bumbu bumbu yang di haluskan sehingga seprti ikan dengan kuah sambal tetapi tidak pedas.</string>
+
+    <string name="day17">Day 17</string>
+    <string name="title17">Capcay</string>
+    <string name="description17">Hidangan khas Tionghoa-Indonesia berupa banyak macam sayuran yang dimasak dengan cara direbus (kuah) atau digoreng tumis.</string>
+
+    <string name="day18">Day 18</string>
+    <string name="title18">Rica-Rica Ayam</string>
+    <string name="description18">hidangan khas Manado, Sulawesi Utara yang terbuat dari ayam yang dimasak dengan cabai merah dan hijau yang pedas.</string>
+
+    <string name="day19">Day 19</string>
+    <string name="title19">Terong Balado</string>
+    <string name="description19">Merupakan olahan dengan bahan dasar terong yang dimasak dengan bumbu balado.</string>
+
+    <string name="day20">Day 20</string>
+    <string name="title20">Telur Balado</string>
+    <string name="description20">Olahan dengan bahan dasar telur yang diolah menggunakan bumbu balado.</string>
+
+    <string name="day21">Day 21</string>
+    <string name="title21">Sayur Sup</string>
+    <string name="description21">Masakan berkuah dari kaldu yang dibuat dengan cara mendidihkan bahan bisa berupa daging atau ayam untuk membuat kuah kaldu, dan biasanya diberi bumbu serta bahan lainnya untuk menambah rasa.</string>
+
+    <string name="day22">Day 22</string>
+    <string name="title22">Nasi Ayam Geprek</string>
+    <string name="description22">Merupakan olahan ayam goreng tepung yang di ulek atau ditumbuk bersama sambal.</string>
+
+    <string name="day23">Day 23</string>
+    <string name="title23">Tumis Kangkung</string>
+    <string name="description23">Hidangan sayuran khas Asia yang terbuat dari kangkung yang ditumis dengan beragam rempah-rempah, sayuran, dan terkadang daging.</string>
+
+    <string name="day24">Day 24</string>
+    <string name="title24">Opor Ayam</string>
+    <string name="description24">merupakan masakan sejenis kari ayam yang sangat dikenal di Indonesia biasa disajikan saat lebaran.</string>
+
+    <string name="day25">Day 25</string>
+    <string name="title25">Semur Jengkol</string>
+    <string name="description25">makanan yang sangat popular di kawasan kota Jakarta sehingga telah menyebar ke berbagai wilayah Indonesia. Dalam sistem pembuatan semur jengkol, hal yang perlu diperhatikan adalah ketepatan bumbu untuk menghasilkan rasa semur jengkol yang tepat dan menyatu dengan bahan-bahan bumbu.</string>
+
+    <string name="day26">Day 26</string>
+    <string name="title26">Gulai Ikan</string>
+    <string name="description26">asakan Indonesia berbahan baku ikan, yang diolah dalam kuah bumbu rempah yang bercita rasa gurih yang berasal dari Sumatra, Indonesia.</string>
+
+    <string name="day27">Day 27</string>
+    <string name="title27">Sayur Asem</string>
+    <string name="description27">masakan sejenis sayur yang khas Indonesia. Ada banyak variasi lokal sayur asam seperti sayur asam Jakarta (variasi dari orang Betawi di Jakarta), sayur asam kangkung (variasi yang menggunakan kangkung), dan sayur asam ikan asin.</string>
+
+    <string name="day28">Day 28</string>
+    <string name="title28">Pepes Ikan</string>
+    <string name="description28">Olahan dengan bahan dasar ikan yang ditambahkan dengan bumbu dan rempah yang kemudian dibungkus dengan daun pisang lalu dikukus .</string>
+
+    <string name="day29">Day 29</string>
+    <string name="title29">Perkedel</string>
+    <string name="description29">makanan khas Indonesia yang terbuat dari kentang yang telah digoreng atau direbus sebelum dilumatkan, lalu dicampur dengan daging cincang, irisan daun bawang serta daun seledri dan bumbu, dibentuk bulat-bulat gepeng, dicelupkan ke dalam kocokan telur ayam lalu digoreng.</string>
+
+    <string name="day30">Day 30</string>
+    <string name="title30">Sayur Lodeh</string>
+    <string name="description30">Masakan sayur yang berkuah santan khas Indonesia, terutama di daerah Jawa Tengah dan DI Yogyakarta. Sayur lodeh mempunyai berbagai macam variasi terutama pada bumbunya, ada yang santannya berwarna putih dan ada juga yang santannya berwarna kuning kemerahan.</string>
+</resources>
